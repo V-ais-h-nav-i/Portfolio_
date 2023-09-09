@@ -107,6 +107,7 @@ nav ul li a:hover::after{
     font-weight: 600;
     color: #fff;
     text-align: left;
+    margin-bottom: 20px;
 }
 
 .tab-titles{
@@ -272,9 +273,11 @@ text-align: center
 /* ----------------contact---------------- */
 .contact-left{
     flex-basis: 35%;
+    margin-top: 60px;
 }
 .contact-right{
     flex-basis: 60%;
+    margin-top: 60px;
 }
 .contact-left p{
     margin-top: 30px;
@@ -335,7 +338,7 @@ form btn2{
     font-weight: 300; 
     margin-top: 20px;
 }
-.fa-solid.fa-times,.fa-solid.fa-bars{
+.fa-regular.fa-circle-xmark,.fa-solid.fa-bars{
     display: none;
 }
 /* -------------------css for small screen----------------- */
