@@ -270,9 +270,6 @@ text-align: center
     background: linear-gradient(rgb(0, 221, 255), rgb(255, 0, 212)) ;
 }
 /* ----------------contact---------------- */
-.contact{
-    margin-top: 45px;
-}
 .contact-left{
     flex-basis: 35%;
 }
