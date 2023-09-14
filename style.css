@@ -306,7 +306,7 @@ transform: translateY(-5px);
     display: inline-block;
     background-color:linear-gradient(rgb(0, 221, 255), rgb(255, 0, 212))  ;
     display: block;
-    margin: 20px auto 0;
+    margin: 20px auto 20px;
 }
 .contact-right form{
     width: 100%;
@@ -328,7 +328,7 @@ form input, form textarea{
 }
 .btn.btn3 {
   display: block;
-  margin: 0 auto; 
+  margin: 20px auto 20px; 
 }
 
 form btn2{
